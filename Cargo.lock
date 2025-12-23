@@ -254,7 +254,7 @@ dependencies = [
 
 [[package]]
 name = "rfc_8805"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "ipnet",
  "rust_iso3166",
