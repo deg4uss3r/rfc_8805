@@ -1,0 +1,11 @@
+[package]
+name = "rfc_8805"
+author = ["Ricky Hosfelt <Ricky@Hosfe.lt>"]
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+rust_iso3166 = "0.1.4"
+ipnet = "2"
+serde = { version = "1", features = [ "derive" ] }
+thiserror = "2"
