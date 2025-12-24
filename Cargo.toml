@@ -1,12 +1,12 @@
 [package]
 name = "rfc_8805"
 description = "Simple RFC 8805 library"
+keywords = [ "geofeed", "rfc8805", "geolocation", "geo" ]
 authors = [ "Ricky Hosfelt <Ricky@Hosfe.lt>" ]
 repository = "https://github.com/deg4uss3r/rfc_8805"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2024"
 license = "MIT"
-license-file = "LICENSE"
 
 [dependencies]
 rust_iso3166 = "0.1.4"
